@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718258995684
+current_stage: None
+description: ''
+last_updated_timestamp: 1718258995684
+name: example
+run_id: dc3c63fb46784339844eb650d6cf1caa
+run_link: ''
+source: file:///C:/Users/91701/mlflow/mlruns/0/dc3c63fb46784339844eb650d6cf1caa/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/91701/mlflow/mlruns/0/dc3c63fb46784339844eb650d6cf1caa/artifacts/model
+user_id: null
+version: 1

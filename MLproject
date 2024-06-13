@@ -1,0 +1,6 @@
+name: test_mlfow_project
+
+
+entry_points:
+  main:
+    command: "pip install -r requirements.txt && python train.py"

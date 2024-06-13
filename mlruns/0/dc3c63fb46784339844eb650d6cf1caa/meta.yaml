@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91701/mlflow/mlruns/0/dc3c63fb46784339844eb650d6cf1caa/artifacts
+end_time: 1718258697228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc3c63fb46784339844eb650d6cf1caa
+run_name: receptive-flea-11
+run_uuid: dc3c63fb46784339844eb650d6cf1caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718258678781
+status: 3
+tags: []
+user_id: '91701'
