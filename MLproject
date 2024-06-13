@@ -3,4 +3,4 @@ name: test_mlfow_project
 
 entry_points:
   main:
-    command: "pip install -r requirements.txt && python train.py"
+    command: "python -m venv myenv && . myenv/Scripts/activate && pip install -r requirements.txt && python train.py"
