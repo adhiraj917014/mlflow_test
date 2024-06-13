@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91701/mlflow/mlruns/0/645a1471b1fa4b7db499f61d8e634f3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 645a1471b1fa4b7db499f61d8e634f3f
+run_name: serious-owl-905
+run_uuid: 645a1471b1fa4b7db499f61d8e634f3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718261958959
+status: 1
+tags: []
+user_id: '91701'
