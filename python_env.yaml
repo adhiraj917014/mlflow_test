@@ -1,7 +1,5 @@
 python: "3.11.4"
 
-build_dependencies:
-  - pip
 dependencies:
   - mlflow==2.13.2
   - cloudpickle==3.0.0
