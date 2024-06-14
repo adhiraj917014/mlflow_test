@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91701/mlflow/mlruns/0/487d69d653184f31a78725c5c96cb0fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 487d69d653184f31a78725c5c96cb0fa
+run_name: auspicious-hound-251
+run_uuid: 487d69d653184f31a78725c5c96cb0fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718263188910
+status: 1
+tags: []
+user_id: '91701'
